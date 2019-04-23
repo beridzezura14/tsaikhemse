@@ -83,7 +83,7 @@ a,h1,h2,h3,address{
 	bottom: 0;
 	left:0;
 	right: 0;
-	background-image: #181818;
+	background-color: #181818;
 	opacity:.6;
 	z-index: -1;
 	flex-direction: column;
@@ -99,7 +99,6 @@ a,h1,h2,h3,address{
 .hero-content_p{
 	color:white;
 	text-align: center;
-	width: 60%;
 	margin-bottom: 53px;
 }
 .hero-content_a{
